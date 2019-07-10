@@ -7,31 +7,18 @@ The objective of this project is to present a method for obtaining a network MFD
 
 ```bash
 .
-├── code # Folder containing all thesis codes
+├── code
 │   ├── cache
 │   ├── MapMatcher.ipynb
 │   ├── map_matching_OSMNX.ipynb
 │   ├── QuadTree.ipynb
-│   ├── Tratamento.ipynb # main code
-│   ├── Untitled1.ipynb
-│   └── Untitled.ipynb
-├── LICENSE # MIT license 
-├── plots_images # Folder containing all images of the thesis
-│   ├── dens_vel_15Min_hex12.png
-│   ├── dens_vel_5Min_hex11.png
-│   ├── h3.jpg
-│   ├── hexag_depict.jpg
-│   ├── hexagons_plot_data.html
-│   ├── hex_depict.jpg
-│   ├── map_hex_tijuca.jpg
-│   ├── map.html
-│   ├── maps_gps.jpg
-│   ├── plot_data.html
-│   ├── quadtree_circle.JPG
-│   └── TableofCellAreas_H3.png
+│   ├── rascunho_1.ipynb
+│   ├── rascunho.ipynb
+│   └── Tratamento.ipynb
+├── LICENSE
 └── README.md
 
-3 directories, 20 files
+2 directories, 8 files
 
 ```
 
